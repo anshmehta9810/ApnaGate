@@ -1,0 +1,5 @@
+/uploads
+__pycache__/
+.idea/
+.env
+apnagate-26741-firebase-adminsdk-fbsvc-a0b7ce60f7.json
